@@ -1,0 +1,43 @@
+var movies = `
+[
+    {
+        "movieName": "A Star is Born",
+        "image": "./img/astarisborn.jpg",
+        "description": "A Star Is Born is a 2018 American romantic musical drama film produced and directed by Bradley Cooper ",
+        "likes": 0
+    },
+    {
+        "movieName": "Halloween",
+        "image": "./img/halloween.jpg",
+        "description": "Halloween 2020 will be one to remember. Much has changed, but our love for Halloween is as strong as ever. ",
+        "likes": 0
+    },
+    {
+        "movieName": "Jumanji",
+        "image": "./img/jumanji.jpg",
+        "description": "Directed by Jake Kasdan. With Dwayne Johnson, Jack Black, Kevin Hart, Karen Gillan. In Jumanji: The Next Level.",
+        "likes": 0
+    },
+    {
+        "movieName": "Mulan",
+        "image": "./img/mulan.jpg",
+        "description": "Directed by Niki Caro. With Yifei Liu, Donnie Yen, Li Gong, Jet Li. A young Chinese maiden disguises herself as a male warrior in order to save her father.",
+        "likes": 0
+    },
+    {
+        "movieName": "Sponge Bob",
+        "image": "./img/sbob.jpg",
+        "description": "The SpongeBob Movie: Sponge on the Run is a 2020 American live-action/computer-animated adventure comedy film based on the animated television series",
+        "likes": 0
+    },
+    {
+        "movieName": "Super Sonic",
+        "image": "./img/sonic.jpg",
+        "description": "After discovering a small, blue, fast hedgehog, a small-town police officer must help him defeat an evil genius who wants to do experiments on him.",
+        "likes": 0
+    }
+
+
+
+
+]`;
